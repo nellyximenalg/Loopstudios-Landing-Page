@@ -47,23 +47,7 @@ Durante el desarrollo de este proyecto reforcé y aprendí varios conceptos impo
 
 - Manejar interacciones simples con JavaScript, como el menú móvil
 
-Ejemplo de estructura de un componente Astro:
 
-<header class="flex items-center justify-between p-6 text-white">
-  <h1 class="text-2xl font-bold">loopstudios</h1>
-</header>
-
-Ejemplo de estilos con Tailwind:
-
-.text-primary {
-  color: hsl(0, 0%, 100%);
-}
-
-Ejemplo de la interacción con JavaScript para el menú móvil:
-
- document.getElementById("openMenu").addEventListener("click", () => {
-  document.getElementById("mobileMenu").classList.remove("hidden");
-});
 ### 🚀 Áreas de mejora
 
 Menciona aquí los aspectos que podrías mejorar o seguir practicando en futuros proyectos.
