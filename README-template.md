@@ -13,7 +13,7 @@ El sitio fue desarrollado utilizando Astro para organizar el proyecto en compone
 ### 🧩 Vista previa del proyecto
 Agrega aquí una **captura de pantalla** del resultado final de tu landing page.  
 
-![Vista previa del proyecto] (.![Vista previa del Proyecto](./images/Vista-previa-del-Proyecto-Loopstudios.png))
+![Vista previa del proyecto] (.![Vista previa del Proyecto](irregular-iron/public/images/Vista-previa-del-Proyecto-Loopstudios.png))
 
 ---
 
